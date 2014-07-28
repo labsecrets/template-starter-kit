@@ -1,6 +1,6 @@
 # Template Starter Kit
 
-The "Template Starter Kit" is a LeadPages™ template that contains examples of all available template components. We thought creating a full-featured template would be a great way to document and share the various subtleties of a LeadPages template. As a bonus, we're making it available for all to use and learn from.
+We thought creating a full-featured template would be a great way to document and share the various subtleties of a LeadPages template. As a bonus, we're making it available for all to use and learn from.
 
 To use this template:
 
