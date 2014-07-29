@@ -2,9 +2,9 @@
     "id": "LP-TSK-01",
     "name": "LeadPages Template Starter Kit",
     "mobile": true,
-    "notes": "Minor updates",
+    "notes": "Fixed opt-in button class",
     "syntax": 4,
-    "version": 1.01,
+    "version": 1.02,
     "style": {
         "replacements": [
             {
