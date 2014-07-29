@@ -1,10 +1,10 @@
 {
     "id": "LP-TSK-01",
-    "name": "LeadPages Template Tutorial",
+    "name": "LeadPages Template Starter Kit",
     "mobile": true,
-    "notes": "Resting state",
+    "notes": "Minor updates",
     "syntax": 4,
-    "version": 1.00,
+    "version": 1.01,
     "style": {
         "replacements": [
             {
@@ -29,7 +29,7 @@
             },
             {
                 "type": "color",
-                "name": "Sect. # Background Color",
+                "name": "Sect. #3 Background Color",
                 "find": "#F6F0E4"
             },
             {

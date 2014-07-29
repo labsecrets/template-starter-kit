@@ -31,6 +31,4 @@ $(function () {
         popup(this.href, this.id);
         return false;
     });
-
-    introJs().start();
 });
